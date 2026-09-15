@@ -21,7 +21,7 @@ An end-to-end data analytics solution built using **MySQL Workbench** and **Powe
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard_Health.jpng)
 
 ---
 
